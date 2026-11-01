@@ -1,0 +1,902 @@
+[
+ {
+  "id": "s-001",
+  "topic": "signs",
+  "q": {
+   "uz": "Odatda qaysi shakldagi yo'l belgilari harakatni taqiqlaydi?",
+   "ru": "Какую форму обычно имеют знаки, запрещающие движение?",
+   "en": "Which shape do road signs that prohibit something usually have?"
+  },
+  "options": {
+   "uz": [
+    "Qizil hoshiyali doira",
+    "Qizil hoshiyali uchburchak",
+    "Ko'k doira",
+    "Ko'k to'rtburchak"
+   ],
+   "ru": [
+    "Круг с красной каймой",
+    "Треугольник с красной каймой",
+    "Синий круг",
+    "Синий прямоугольник"
+   ],
+   "en": [
+    "A circle with a red border",
+    "A triangle with a red border",
+    "A blue circle",
+    "A blue rectangle"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-002",
+  "topic": "signs",
+  "q": {
+   "uz": "Qizil hoshiyali uchburchak shaklidagi belgilar nimani bildiradi?",
+   "ru": "О чём предупреждают знаки в форме треугольника с красной каймой?",
+   "en": "What do triangular signs with a red border mean?"
+  },
+  "options": {
+   "uz": [
+    "Haydovchini oldinda xavfli yo'l qismi borligidan ogohlantiradi",
+    "Harakatni taqiqlaydi",
+    "Harakat yo'nalishini majburiy qiladi",
+    "Xizmat ko'rsatish joyini bildiradi"
+   ],
+   "ru": [
+    "Предупреждают водителя об опасном участке дороги впереди",
+    "Запрещают движение",
+    "Предписывают направление движения",
+    "Указывают место обслуживания"
+   ],
+   "en": [
+    "They warn the driver of a hazardous section of road ahead",
+    "They prohibit movement",
+    "They make a direction of travel mandatory",
+    "They show a service location"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-003",
+  "topic": "signs",
+  "q": {
+   "uz": "Qizil sakkizburchak (STOP) belgisi qanday talab qo'yadi?",
+   "ru": "Что требует знак «СТОП» (красный восьмиугольник)?",
+   "en": "What does the red octagonal STOP sign require?"
+  },
+  "options": {
+   "uz": [
+    "To'xtash chizig'i yoki chorraha oldida to'liq to'xtash va yo'l berish",
+    "Tezlikni pasaytirib to'xtamasdan o'tish",
+    "Faqat piyodalar bo'lsa to'xtash",
+    "Faqat kechasi to'xtash"
+   ],
+   "ru": [
+    "Полностью остановиться перед стоп-линией или перекрёстком и уступить дорогу",
+    "Снизить скорость и проехать без остановки",
+    "Остановиться только при наличии пешеходов",
+    "Остановиться только ночью"
+   ],
+   "en": [
+    "Come to a complete stop at the stop line or intersection and give way",
+    "Slow down and pass without stopping",
+    "Stop only if pedestrians are present",
+    "Stop only at night"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-004",
+  "topic": "markings",
+  "q": {
+   "uz": "Yo'lning o'rtasidagi yaxlit (uzluksiz) chiziqni kesib o'tish mumkinmi?",
+   "ru": "Можно ли пересекать сплошную линию разметки посередине дороги?",
+   "en": "May you cross a solid line in the middle of the road?"
+  },
+  "options": {
+   "uz": [
+    "Yo'q, taqiqlanadi",
+    "Ha, har doim mumkin",
+    "Faqat kunduzi mumkin",
+    "Faqat tezlik past bo'lsa mumkin"
+   ],
+   "ru": [
+    "Нет, запрещено",
+    "Да, всегда можно",
+    "Только днём",
+    "Только на малой скорости"
+   ],
+   "en": [
+    "No, it is prohibited",
+    "Yes, always",
+    "Only in daytime",
+    "Only at low speed"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-005",
+  "topic": "markings",
+  "q": {
+   "uz": "Uzuq (punktir) chiziq nimani bildiradi?",
+   "ru": "Что означает прерывистая линия разметки?",
+   "en": "What does a broken (dashed) line marking indicate?"
+  },
+  "options": {
+   "uz": [
+    "Xavfsiz bo'lganda uni kesib o'tishga ruxsat etiladi",
+    "Kesib o'tish qat'iyan taqiqlanadi",
+    "Yo'lda to'xtash joyi borligini",
+    "Piyodalar o'tish joyini"
+   ],
+   "ru": [
+    "Её пересечение разрешено, если это безопасно",
+    "Пересечение строго запрещено",
+    "Наличие места остановки",
+    "Пешеходный переход"
+   ],
+   "en": [
+    "Crossing it is allowed when it is safe",
+    "Crossing it is strictly prohibited",
+    "A stopping place is ahead",
+    "A pedestrian crossing"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-006",
+  "topic": "markings",
+  "q": {
+   "uz": "Yo'lda «zebra» chiziqlari nimani bildiradi?",
+   "ru": "Что обозначает разметка «зебра» на дороге?",
+   "en": "What does the “zebra” marking on the road indicate?"
+  },
+  "options": {
+   "uz": [
+    "Piyodalar o'tish joyini",
+    "Avtobus bekatini",
+    "Velosipedlar yo'lagini",
+    "To'xtab turish joyini"
+   ],
+   "ru": [
+    "Пешеходный переход",
+    "Остановку автобуса",
+    "Велосипедную полосу",
+    "Место стоянки"
+   ],
+   "en": [
+    "A pedestrian crossing",
+    "A bus stop",
+    "A bicycle lane",
+    "A parking place"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-007",
+  "topic": "priority",
+  "q": {
+   "uz": "Teng ahamiyatli yo'llar kesishgan, tartibga solinmagan chorrahada kimga yo'l berasiz?",
+   "ru": "Кому вы должны уступить на нерегулируемом перекрёстке равнозначных дорог?",
+   "en": "Whom must you give way to at an unregulated intersection of equal roads?"
+  },
+  "options": {
+   "uz": [
+    "O'ng tomondan kelayotgan transport vositasiga",
+    "Chap tomondan kelayotgan transport vositasiga",
+    "Tezroq ketayotgan transport vositasiga",
+    "Katta transport vositasiga"
+   ],
+   "ru": [
+    "Транспортному средству, приближающемуся справа",
+    "Транспортному средству, приближающемуся слева",
+    "Тому, кто едет быстрее",
+    "Более крупному транспортному средству"
+   ],
+   "en": [
+    "The vehicle approaching from the right",
+    "The vehicle approaching from the left",
+    "The faster vehicle",
+    "The larger vehicle"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-008",
+  "topic": "priority",
+  "q": {
+   "uz": "«Yo'l bering» belgisi (pastga qaragan uchburchak) nimani talab qiladi?",
+   "ru": "Что требует знак «Уступите дорогу» (треугольник вершиной вниз)?",
+   "en": "What does the “Give way” sign (triangle pointing down) require?"
+  },
+  "options": {
+   "uz": [
+    "Kesishgan yo'ldagi harakatlanayotgan transportga yo'l berish",
+    "Albatta to'xtab, o'chirib qo'yish",
+    "Tezlikni oshirish",
+    "Chorrahada burilishni taqiqlash"
+   ],
+   "ru": [
+    "Уступить дорогу транспорту на пересекаемой дороге",
+    "Обязательно остановиться и заглушить двигатель",
+    "Увеличить скорость",
+    "Запретить поворот на перекрёстке"
+   ],
+   "en": [
+    "Give way to traffic on the intersecting road",
+    "Always stop and switch off the engine",
+    "Increase speed",
+    "Do not turn at the intersection"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-009",
+  "topic": "priority",
+  "q": {
+   "uz": "Ko'k mayoqchasi va sirenasi yoqilgan maxsus transport vositasi yaqinlashayotganda nima qilish kerak?",
+   "ru": "Что нужно сделать, если приближается спецтранспорт с включёнными синим маячком и сиреной?",
+   "en": "What must you do when a special vehicle with flashing blue light and siren approaches?"
+  },
+  "options": {
+   "uz": [
+    "Unga yo'l berish va to'siq bo'lmaslik",
+    "Tezlikni oshirib uzoqlashish",
+    "Joyingizda to'xtamasdan harakatni davom ettirish",
+    "Yo'lning o'rtasida to'xtash"
+   ],
+   "ru": [
+    "Уступить ему дорогу и не создавать помех",
+    "Увеличить скорость и уехать вперёд",
+    "Продолжать движение, не меняя полосы",
+    "Остановиться посередине дороги"
+   ],
+   "en": [
+    "Give way and do not obstruct it",
+    "Speed up and move ahead of it",
+    "Keep driving without changing anything",
+    "Stop in the middle of the road"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-010",
+  "topic": "signals",
+  "q": {
+   "uz": "Svetoforning qizil signali nimani bildiradi?",
+   "ru": "Что означает красный сигнал светофора?",
+   "en": "What does a red traffic light mean?"
+  },
+  "options": {
+   "uz": [
+    "Harakatlanish taqiqlanadi",
+    "Tezlikni pasaytirib o'tish mumkin",
+    "Faqat to'g'ri yo'nalishda o'tish mumkin",
+    "Piyodalar yo'q bo'lsa o'tish mumkin"
+   ],
+   "ru": [
+    "Движение запрещено",
+    "Можно проехать, снизив скорость",
+    "Можно ехать только прямо",
+    "Можно ехать, если нет пешеходов"
+   ],
+   "en": [
+    "Movement is prohibited",
+    "You may pass slowly",
+    "You may only go straight",
+    "You may go if there are no pedestrians"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-011",
+  "topic": "signals",
+  "q": {
+   "uz": "Sariq signal yonib-o'chib turganda nima qilinadi?",
+   "ru": "Как нужно действовать при мигающем жёлтом сигнале светофора?",
+   "en": "How should you act at a flashing yellow light?"
+  },
+  "options": {
+   "uz": [
+    "Ehtiyotkorlik bilan, yo'l belgilari va qoidalarga amal qilib harakatlanish",
+    "To'xtab, yashil signalni kutish",
+    "Tezlikni oshirib o'tish",
+    "Ogohlantirish signali berib, to'xtamay o'tish"
+   ],
+   "ru": [
+    "Двигаться осторожно, руководствуясь знаками и правилами",
+    "Остановиться и ждать зелёного сигнала",
+    "Увеличить скорость и проехать",
+    "Подать сигнал и проехать без остановки"
+   ],
+   "en": [
+    "Proceed with caution, following road signs and rules",
+    "Stop and wait for green",
+    "Speed up and go through",
+    "Sound the horn and go through without stopping"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-012",
+  "topic": "signals",
+  "q": {
+   "uz": "Yashil signalda chorrahada o'ngga yoki chapga burilganda kimga yo'l berish kerak?",
+   "ru": "Кому нужно уступить при повороте направо или налево на зелёный сигнал?",
+   "en": "Whom must you give way to when turning at an intersection on a green light?"
+  },
+  "options": {
+   "uz": [
+    "Yo'lni kesib o'tayotgan piyodalarga",
+    "Faqat velosipedchilarga",
+    "Hech kimga, yashil signal ruxsat beradi",
+    "Faqat orqadan kelayotgan transportga"
+   ],
+   "ru": [
+    "Пешеходам, пересекающим проезжую часть",
+    "Только велосипедистам",
+    "Никому, зелёный сигнал разрешает",
+    "Только транспорту, идущему сзади"
+   ],
+   "en": [
+    "Pedestrians crossing the road",
+    "Only cyclists",
+    "No one, green allows it",
+    "Only traffic coming from behind"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-013",
+  "topic": "overtaking",
+  "q": {
+   "uz": "Quvib o'tish qayerda taqiqlanadi?",
+   "ru": "Где запрещён обгон?",
+   "en": "Where is overtaking prohibited?"
+  },
+  "options": {
+   "uz": [
+    "Piyodalar o'tish joylarida",
+    "Ko'rinish yaxshi bo'lgan to'g'ri yo'l qismida, belgi bo'lmaganda",
+    "Bir tomonlama yo'lda, boshqa transport bo'lmaganda",
+    "Qarama-qarshi qatnov bo'lmagan keng yo'lda, belgi bo'lmaganda"
+   ],
+   "ru": [
+    "На пешеходных переходах",
+    "На прямом участке с хорошей видимостью, если нет знаков",
+    "На дороге с односторонним движением, если нет других машин",
+    "На широкой дороге без встречного движения, если нет знаков"
+   ],
+   "en": [
+    "At pedestrian crossings",
+    "On a straight stretch with good visibility when no sign forbids it",
+    "On a one-way road when there are no other vehicles",
+    "On a wide road without oncoming traffic when no sign forbids it"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-014",
+  "topic": "overtaking",
+  "q": {
+   "uz": "Quvib o'tishni boshlashdan oldin nimaga ishonch hosil qilish kerak?",
+   "ru": "В чём нужно убедиться перед началом обгона?",
+   "en": "What must you make sure of before starting to overtake?"
+  },
+  "options": {
+   "uz": [
+    "Qarama-qarshi yo'lak bo'sh ekaniga va orqadagi haydovchi quvib o'tishni boshlamaganiga",
+    "Faqat o'z tezligingiz yuqori ekaniga",
+    "Faqat yo'l quruq ekaniga",
+    "Oldingi haydovchi ruxsat berganiga"
+   ],
+   "ru": [
+    "Что встречная полоса свободна и сзади идущий водитель не начал обгон",
+    "Только что ваша скорость высокая",
+    "Только что дорога сухая",
+    "Что водитель впереди дал разрешение"
+   ],
+   "en": [
+    "That the opposite lane is clear and the driver behind has not begun to overtake",
+    "Only that your own speed is high",
+    "Only that the road is dry",
+    "That the driver ahead has given permission"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-015",
+  "topic": "overtaking",
+  "q": {
+   "uz": "Sizni quvib o'tayotgan haydovchi nimani qilishi kerak?",
+   "ru": "Что должен сделать водитель, которого обгоняют?",
+   "en": "What must the driver being overtaken do?"
+  },
+  "options": {
+   "uz": [
+    "Tezlikni oshirmasligi va quvib o'tishga to'sqinlik qilmasligi",
+    "Tezlikni oshirishi",
+    "Quvib o'tuvchi bilan yonma-yon yurishi",
+    "Chap qatorga o'tishi"
+   ],
+   "ru": [
+    "Не увеличивать скорость и не препятствовать обгону",
+    "Увеличить скорость",
+    "Ехать рядом с обгоняющим",
+    "Перестроиться в левый ряд"
+   ],
+   "en": [
+    "Not increase speed and not hinder the overtaking",
+    "Increase speed",
+    "Drive side by side with the overtaker",
+    "Move into the left lane"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-016",
+  "topic": "stopping",
+  "q": {
+   "uz": "Piyodalar o'tish joyida to'xtab turish mumkinmi?",
+   "ru": "Можно ли останавливаться или стоять на пешеходном переходе?",
+   "en": "May you stop or park on a pedestrian crossing?"
+  },
+  "options": {
+   "uz": [
+    "Yo'q, taqiqlanadi",
+    "Ha, yo'lovchi tushirish uchun mumkin",
+    "Ha, kechasi mumkin",
+    "Ha, 5 daqiqagacha mumkin"
+   ],
+   "ru": [
+    "Нет, запрещено",
+    "Да, чтобы высадить пассажира",
+    "Да, ночью",
+    "Да, до пяти минут"
+   ],
+   "en": [
+    "No, it is prohibited",
+    "Yes, to let a passenger out",
+    "Yes, at night",
+    "Yes, for up to five minutes"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-017",
+  "topic": "stopping",
+  "q": {
+   "uz": "Avariya signalizatsiyasi (avariya chiroqlari) qachon yoqiladi?",
+   "ru": "Когда включается аварийная сигнализация?",
+   "en": "When should hazard warning lights be switched on?"
+  },
+  "options": {
+   "uz": [
+    "Transport vositasi majburiy to'xtaganda yoki xavf tug'ilganda",
+    "Har safar burilishda",
+    "Yo'lda tezlikni oshirganda",
+    "Faqat to'xtab turganda"
+   ],
+   "ru": [
+    "При вынужденной остановке или опасной ситуации",
+    "При каждом повороте",
+    "При увеличении скорости",
+    "Только на стоянке"
+   ],
+   "en": [
+    "When the vehicle has stopped by necessity or there is danger",
+    "At every turn",
+    "When speeding up",
+    "Only while parked"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-018",
+  "topic": "stopping",
+  "q": {
+   "uz": "Yo'lda majburiy to'xtaganda ogohlantiruvchi belgi (avariya uchburchagi) nima uchun qo'yiladi?",
+   "ru": "Зачем при вынужденной остановке выставляют знак аварийной остановки?",
+   "en": "Why is a warning triangle placed after a forced stop on the road?"
+  },
+  "options": {
+   "uz": [
+    "Boshqa haydovchilarni to'xtab turgan transport haqida ogohlantirish uchun",
+    "Yo'lni to'sib qo'yish uchun",
+    "Jarimadan qutulish uchun",
+    "Transport vositasini bezash uchun"
+   ],
+   "ru": [
+    "Чтобы предупредить других водителей о стоящем транспорте",
+    "Чтобы перекрыть дорогу",
+    "Чтобы избежать штрафа",
+    "Для украшения автомобиля"
+   ],
+   "en": [
+    "To warn other drivers about the stopped vehicle",
+    "To block the road",
+    "To avoid a fine",
+    "To decorate the vehicle"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-019",
+  "topic": "safety",
+  "q": {
+   "uz": "Xavfsizlik kamarini kimlar taqishi shart?",
+   "ru": "Кто обязан пристёгиваться ремнём безопасности?",
+   "en": "Who is required to wear a seat belt?"
+  },
+  "options": {
+   "uz": [
+    "Haydovchi va barcha yo'lovchilar",
+    "Faqat haydovchi",
+    "Faqat old o'rindiqdagi yo'lovchi",
+    "Faqat shahar tashqarisida haydovchi"
+   ],
+   "ru": [
+    "Водитель и все пассажиры",
+    "Только водитель",
+    "Только пассажир на переднем сиденье",
+    "Только водитель за городом"
+   ],
+   "en": [
+    "The driver and all passengers",
+    "Only the driver",
+    "Only the front-seat passenger",
+    "Only the driver outside town"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-020",
+  "topic": "safety",
+  "q": {
+   "uz": "Spirtli ichimlik ichgan haydovchi transport vositasini boshqarishi mumkinmi?",
+   "ru": "Может ли водитель управлять автомобилем после употребления алкоголя?",
+   "en": "May a driver operate a vehicle after drinking alcohol?"
+  },
+  "options": {
+   "uz": [
+    "Yo'q, taqiqlanadi",
+    "Ha, agar o'zini yaxshi his qilsa",
+    "Ha, kam miqdorda ichgan bo'lsa",
+    "Ha, kechasi yo'l bo'sh bo'lsa"
+   ],
+   "ru": [
+    "Нет, запрещено",
+    "Да, если чувствует себя хорошо",
+    "Да, если выпил немного",
+    "Да, ночью, когда дорога свободна"
+   ],
+   "en": [
+    "No, it is prohibited",
+    "Yes, if he feels fine",
+    "Yes, if he drank only a little",
+    "Yes, at night on an empty road"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-021",
+  "topic": "safety",
+  "q": {
+   "uz": "Haydovchi harakatlanish vaqtida telefondan qanday foydalanishi mumkin?",
+   "ru": "Как водитель может пользоваться телефоном во время движения?",
+   "en": "How may a driver use a phone while driving?"
+  },
+  "options": {
+   "uz": [
+    "Qo'l bilan ushlamasdan, faqat qo'lsiz (hands-free) qurilma orqali",
+    "Telefonni qo'lida ushlab gaplashishi mumkin",
+    "Xabar yozishi mumkin",
+    "Tezlik past bo'lsa, hamma narsa mumkin"
+   ],
+   "ru": [
+    "Только без использования рук, через устройство «hands-free»",
+    "Можно разговаривать, держа телефон в руке",
+    "Можно писать сообщения",
+    "Если скорость низкая, можно всё"
+   ],
+   "en": [
+    "Only hands-free, without holding the phone",
+    "He may talk while holding the phone",
+    "He may type messages",
+    "At low speed, anything is allowed"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-022",
+  "topic": "pedestrians",
+  "q": {
+   "uz": "Piyoda tartibga solinmagan piyodalar o'tish joyiga chiqayotgan bo'lsa, haydovchi nima qilishi kerak?",
+   "ru": "Что должен сделать водитель, если пешеход выходит на нерегулируемый пешеходный переход?",
+   "en": "What must a driver do when a pedestrian steps onto an unregulated crossing?"
+  },
+  "options": {
+   "uz": [
+    "Sekinlashib, kerak bo'lsa to'xtab, piyodaga yo'l berishi",
+    "Signal berib, o'tib ketishi",
+    "Tezlikni oshirib, o'tib olishi",
+    "Piyoda to'xtashini kutmasdan harakatni davom ettirishi"
+   ],
+   "ru": [
+    "Снизить скорость, при необходимости остановиться и уступить пешеходу",
+    "Подать сигнал и проехать",
+    "Увеличить скорость и проскочить",
+    "Продолжить движение, не дожидаясь пешехода"
+   ],
+   "en": [
+    "Slow down, stop if necessary and give way to the pedestrian",
+    "Sound the horn and drive past",
+    "Speed up and get through",
+    "Keep going without waiting for the pedestrian"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-023",
+  "topic": "pedestrians",
+  "q": {
+   "uz": "Piyodalar yo'lni qayerda kesib o'tishlari kerak?",
+   "ru": "Где пешеходы должны переходить дорогу?",
+   "en": "Where should pedestrians cross the road?"
+  },
+  "options": {
+   "uz": [
+    "Piyodalar o'tish joylarida, ular bo'lmasa yo'l yaxshi ko'rinadigan joyda",
+    "Istalgan joyda, tezroq o'tish uchun",
+    "Faqat chorraha o'rtasida",
+    "Transport yaqinlashayotganda yo'lning o'rtasida"
+   ],
+   "ru": [
+    "По пешеходным переходам, а при их отсутствии — там, где дорога хорошо просматривается",
+    "Где угодно, чтобы быстрее",
+    "Только посередине перекрёстка",
+    "Посередине дороги при приближении транспорта"
+   ],
+   "en": [
+    "At pedestrian crossings, or where the road is clearly visible if there are none",
+    "Anywhere, to get across faster",
+    "Only in the middle of an intersection",
+    "In the middle of the road as vehicles approach"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-024",
+  "topic": "pedestrians",
+  "q": {
+   "uz": "Ko'zi ojiz piyoda (oq tayoqli) yo'lni kesib o'tayotganda haydovchi nima qilishi kerak?",
+   "ru": "Что должен сделать водитель, если дорогу переходит слепой пешеход с белой тростью?",
+   "en": "What must a driver do when a blind pedestrian with a white cane is crossing?"
+  },
+  "options": {
+   "uz": [
+    "To'xtab, yo'l berishi",
+    "Sekin haydab o'tib ketishi",
+    "Signal berib o'tishi",
+    "Boshqa qatorga o'tib, aylanib o'tishi"
+   ],
+   "ru": [
+    "Остановиться и уступить дорогу",
+    "Медленно проехать мимо",
+    "Подать сигнал и проехать",
+    "Перестроиться и объехать"
+   ],
+   "en": [
+    "Stop and give way",
+    "Drive past slowly",
+    "Sound the horn and pass",
+    "Change lanes and drive around"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-025",
+  "topic": "firstaid",
+  "q": {
+   "uz": "Yo'l-transport hodisasida jabrlanuvchi hushsiz bo'lsa, birinchi navbatda nima qilinadi?",
+   "ru": "Что нужно сделать в первую очередь, если пострадавший в ДТП без сознания?",
+   "en": "What is the first thing to do if a road accident victim is unconscious?"
+  },
+  "options": {
+   "uz": [
+    "Tez yordam chaqirish (103) va nafas olishini tekshirish",
+    "Suv ichirish",
+    "Darhol o'tqazib qo'yish",
+    "Mashinadan tortib olish"
+   ],
+   "ru": [
+    "Вызвать скорую (103) и проверить дыхание",
+    "Дать воды",
+    "Сразу посадить",
+    "Вытащить из машины рывком"
+   ],
+   "en": [
+    "Call an ambulance (103) and check breathing",
+    "Give water",
+    "Sit the person up immediately",
+    "Pull the person out of the car"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-026",
+  "topic": "firstaid",
+  "q": {
+   "uz": "Tashqi qon ketishda birinchi yordam qanday ko'rsatiladi?",
+   "ru": "Как оказывается первая помощь при наружном кровотечении?",
+   "en": "How is first aid given for external bleeding?"
+  },
+  "options": {
+   "uz": [
+    "Qon ketayotgan joyni toza material bilan bosib, bog'lam qo'yish",
+    "Yarani suvga tutib turish",
+    "Yaraga un yoki tuproq sepish",
+    "Hech narsa qilmasdan kutish"
+   ],
+   "ru": [
+    "Прижать рану чистым материалом и наложить повязку",
+    "Держать рану под водой",
+    "Присыпать рану мукой или землёй",
+    "Ничего не делать и ждать"
+   ],
+   "en": [
+    "Press the wound with a clean cloth and apply a dressing",
+    "Hold the wound under water",
+    "Sprinkle flour or soil on the wound",
+    "Do nothing and wait"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-027",
+  "topic": "firstaid",
+  "q": {
+   "uz": "Jabrlanuvchida bo'yin yoki umurtqa shikastlanishi gumon qilinsa, uni nima qilish kerak?",
+   "ru": "Как поступить, если у пострадавшего подозревается травма шеи или позвоночника?",
+   "en": "What should you do if a victim may have a neck or spine injury?"
+  },
+  "options": {
+   "uz": [
+    "Zarurat bo'lmasa joyidan qimirlatmaslik, tez yordamni kutish",
+    "Tezda mashinadan tortib olish",
+    "Boshini baland ko'tarish",
+    "Yurgizib ko'rish"
+   ],
+   "ru": [
+    "Без необходимости не перемещать, дождаться скорую",
+    "Быстро вытащить из машины",
+    "Поднять голову повыше",
+    "Заставить пройтись"
+   ],
+   "en": [
+    "Do not move the person unless necessary; wait for the ambulance",
+    "Pull the person out of the car quickly",
+    "Raise the head high",
+    "Make the person try to walk"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-028",
+  "topic": "vehicle",
+  "q": {
+   "uz": "Qaysi nosozlik bilan transport vositasini ishlatish taqiqlanadi?",
+   "ru": "При какой неисправности запрещается эксплуатировать транспортное средство?",
+   "en": "With which fault is it prohibited to operate a vehicle?"
+  },
+  "options": {
+   "uz": [
+    "Ishchi tormoz tizimi nosozligi",
+    "Radio ishlamasligi",
+    "Salon bezagining shikastlanishi",
+    "Soat to'xtab qolishi"
+   ],
+   "ru": [
+    "Неисправность рабочей тормозной системы",
+    "Не работает радио",
+    "Повреждена отделка салона",
+    "Остановились часы"
+   ],
+   "en": [
+    "A faulty service brake system",
+    "The radio not working",
+    "Damaged interior trim",
+    "A stopped clock"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-029",
+  "topic": "vehicle",
+  "q": {
+   "uz": "Shinalarning protektori me'yordan ortiq yeyilgan bo'lsa, nima qilinadi?",
+   "ru": "Что делать, если протектор шин изношен сверх нормы?",
+   "en": "What should be done if tyre tread is worn beyond the limit?"
+  },
+  "options": {
+   "uz": [
+    "Transport vositasini ishlatish taqiqlanadi, shinalarni almashtirish kerak",
+    "Tezlikni pasaytirib haydash yetarli",
+    "Faqat yomg'irda haydamaslik kerak",
+    "Hech narsa qilish shart emas"
+   ],
+   "ru": [
+    "Эксплуатация запрещена, шины нужно заменить",
+    "Достаточно ехать медленнее",
+    "Достаточно не ездить только в дождь",
+    "Ничего делать не нужно"
+   ],
+   "en": [
+    "Operating the vehicle is prohibited; the tyres must be replaced",
+    "Driving slower is enough",
+    "Just avoid driving in rain",
+    "Nothing needs to be done"
+   ]
+  },
+  "correct": 0
+ },
+ {
+  "id": "s-030",
+  "topic": "vehicle",
+  "q": {
+   "uz": "Tuman paytida qaysi yorug'likdan foydalanish to'g'ri?",
+   "ru": "Какой свет следует использовать в тумане?",
+   "en": "Which lights are correct to use in fog?"
+  },
+  "options": {
+   "uz": [
+    "Yaqin yorug'lik yoki tuman chiroqlari",
+    "Faqat uzoq yorug'lik",
+    "Faqat gabarit chiroqlari",
+    "Chiroqlarni o'chirib qo'yish"
+   ],
+   "ru": [
+    "Ближний свет или противотуманные фары",
+    "Только дальний свет",
+    "Только габаритные огни",
+    "Выключить свет"
+   ],
+   "en": [
+    "Low beam or fog lights",
+    "Only high beam",
+    "Only parking lights",
+    "Switch the lights off"
+   ]
+  },
+  "correct": 0
+ }
+]

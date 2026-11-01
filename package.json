@@ -1,0 +1,9 @@
+{
+  "name": "avto-maktab",
+  "version": "0.1.0",
+  "description": "Avto maktab uchun o'qituvchi va o'quvchi ilovasi (MVP)",
+  "main": "server.js",
+  "scripts": { "start": "node --disable-warning=ExperimentalWarning server.js" },
+  "engines": { "node": ">=22.13" },
+  "license": "UNLICENSED"
+}
